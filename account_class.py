@@ -27,14 +27,6 @@ class Robo(Retirement_Account):
     
     
 
-
-
-#UNIT TEST
-# Unit Test - Do Not Change Code Below This Line *** *** *** *** *** *** *** *** ***
-# main() is used for unit testing only. It will run when stock_class.py is run.
-# Run this to test your class code. Once you have eliminated all errors, you are
-# ready to continue with the next part of the project.
-
 def main():
     error_count = 0
     error_list = []
